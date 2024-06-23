@@ -1,7 +1,7 @@
-
+![logo](https://github.com/jaineep2426/jaineep2426/blob/main/Github%20profile.png)
 <h1 align="center">Hi 👋, I'm Jainee Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align ="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaineep2426&label=Profile%20views&color=0e75b6&style=flat" alt="jaineep2426" /> </p>
 
