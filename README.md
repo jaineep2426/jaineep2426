@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaineep2426&label=Profile%20views&color=0e75b6&style=flat" alt="jaineep2426" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Python** and **Database(SQL)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
